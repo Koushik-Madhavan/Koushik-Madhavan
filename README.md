@@ -32,7 +32,7 @@
 ## 📊 Featured Projects  
 
 ## 📫 Connect with Me  
-<p align="center">
+<p
    <a href="https://www.linkedin.com/in/koushik-m-370b00253/">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
    </a>
