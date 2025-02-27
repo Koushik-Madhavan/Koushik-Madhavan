@@ -31,12 +31,8 @@
 
 ## 📊 Featured Projects  
 
-## 📫 Connect with Me  
-<p
-   <a href="https://www.linkedin.com/in/koushik-m-370b00253/">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-   </a>
-</p>
+## 📬 **Connect with Me**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koushik-m-370b00253/)
 
 ---
 
